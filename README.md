@@ -25,6 +25,11 @@ button:hover {
   cursor: pointer;
 }
 ~~~
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: https://dileep001.github.io/3-column-preview-card
+
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dileep001)
