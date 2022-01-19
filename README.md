@@ -27,7 +27,7 @@ button:hover {
 ~~~
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Dileep001/3-column-preview-card
 - Live Site URL: https://dileep001.github.io/3-column-preview-card
 
 ## Author
