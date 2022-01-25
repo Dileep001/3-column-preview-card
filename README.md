@@ -32,4 +32,4 @@ button:hover {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dileep001)
+- Frontend Mentor - [@Dileep001](https://www.frontendmentor.io/profile/Dileep001)
